@@ -6,9 +6,9 @@ body {
   background-repeat: no-repeat;
 }
 h1 {
-  color: #f7349c !important;
+  color: #16a776 !important;
   text-shadow: rgba(0, 0, 0, 0.418) 0.1em 0.1em 0.2em;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times, serif;
   font-weight: 500;
 }
 

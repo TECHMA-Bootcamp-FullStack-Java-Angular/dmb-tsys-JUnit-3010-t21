@@ -1,7 +1,7 @@
 export const lessons = [
   {
     numLessons: 4,
-    issue: 'Maven',
+    issue: 'JUnic',
     day: 33,
     msg: '<small> La programción es la única disciplina donde los errores son vistos como algo positivo, “Donald Knuth”',
     myProgress: '🥚>🐣>🐤>🐓>🕊️>🦃>🦅>🪂>🛩️>✈️>👨‍🚀>🚀>🛸>🦸‍♂️',
